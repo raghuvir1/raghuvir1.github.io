@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>This is the title of the webpage!</title>
+    <title></title>
   </head>
   <body>
     <p> <strong>Under construction</strong> <strong></strong> </p>
