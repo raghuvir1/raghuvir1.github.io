@@ -2,7 +2,6 @@
 
 <html>
   <head>
-    <title></title>
   </head>
   <body>
     <p> <strong>Under construction</strong> <strong></strong> </p>
