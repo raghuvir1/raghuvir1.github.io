@@ -11,6 +11,13 @@ custom_js:
 ---
 # Global Business & Entrepreneurial Behaviors
 
+
+This project visualizes trends business and entrepreneurship metrics from the Global Entrepreneurship Consortium. The dataset used for this project contains business indicators from 115 countries from 2001 to 2021. The dataset contains columns like ‘Established Business Ownership’, Entrepreneurial intentions’, ‘Total early-stage Entrepreneurial Activity (TEA)’, ‘Fear of failure rate *’, ‘Motivational Index’. The following interactive plots draw light on global trends in business and entrepreneurship. 
+
+A good place to begin the analysis, is to compare global trends in average business ownership. Using the elements you can toggle between regions like Africa, Asia, Europe, North America, and Asia (including Oceania) to view global patterns. 
+
+North America had the highest average business ownership rates in 2021 while Africa had the lowest (and most sporadic). You can also see the decline in North American business ownership rates after the 2008 recession. The next plot is of the maximum business ownership in the Americas to highlight peaks of business ownership. This plot allows a user to compare differences between countries in both North and South American continents. The Fear of Failure vs Entrepreneurial intentions plot also shows that most regions with a high fear of failure rate have lower entrepreneurial intentions. Having high Established Business Ownership Rates has a positive relationship with Total early-stage Entrepreneurial Activity. Most regions with high established business ownership and early-stage start-up activity also have higher values for their ‘perceived capabilities’. The last plot shows that when regions give a ‘high status to successful entrepreneurs’ regions are more likely to consider ‘entrepreneurship as a good choice’. 
+
 ### Average Business Ownership Per Region
 
 
@@ -40,6 +47,8 @@ custom_js:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/scatter_early_stage_vs_estb_business.json" style="width: 100%"></vegachart>
 
+
+Source for all visualizations: Me
 
 <!-- these are written in a combo of html and liquid --> 
 
