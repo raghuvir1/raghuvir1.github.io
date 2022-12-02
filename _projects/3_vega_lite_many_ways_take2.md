@@ -51,13 +51,13 @@ Including a `brush` selection and a `transform_filter` in our dashboard for inte
 
 ## 4. Making the plot fully in Altair with data stored online
 
-Max Business Ownership in the Americas
+## Max Business Ownership in the Americas
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/line_plot_max_business_americas.json" style="width: 100%"></vegachart>
 
-Remake dashboard, all in Altair:
+## Average Business Ownership Per Region
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/dashboard_all_in_altair.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/line_plot_mean_bus_own_per_region.json" style="width: 100%"></vegachart>
 
 
 
