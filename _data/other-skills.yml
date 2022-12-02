@@ -7,3 +7,8 @@
   percentage: 90
   level: Expert
   color: success
+
+- name: MS Excel
+  percentage: 70
+  level: Proficient
+  color: success

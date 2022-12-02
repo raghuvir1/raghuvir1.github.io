@@ -8,6 +8,11 @@
   level: Proficient
   color: secondary
 
+- name: R
+  percentage: 60
+  level: Intermediate
+  color:
+
 - name: HTML/CSS
   percentage: 50
   level: Intermediate

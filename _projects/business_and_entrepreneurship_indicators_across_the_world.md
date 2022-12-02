@@ -11,31 +11,31 @@ custom_js:
 ---
 # Global Business & Entrepreneurial Behaviors
 
-## Average Business Ownership Per Region
+### Average Business Ownership Per Region
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/line_plot_mean_bus_own_per_region.json" style="width: 100%"></vegachart>
 
 
-## Max Business Ownership in the Americas
+### Max Business Ownership in the Americas
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/max_business_ownership_americas.json" style="width: 100%"></vegachart>
 
 
-## Fear of Failure vs Entrepreneurial intentions
+### Fear of Failure vs Entrepreneurial intentions
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fof_vs_entre_inten.json" style="width: 100%"></vegachart>
 
 
-## Total early-stage Entrepreneurial Activity (TEA) vs Established Business Ownership
+### Total early-stage Entrepreneurial Activity (TEA) vs Established Business Ownership
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/scatter2.json" style="width: 100%"></vegachart>
 
 
-## Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs
+### Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/scatter_early_stage_vs_estb_business.json" style="width: 100%"></vegachart>
