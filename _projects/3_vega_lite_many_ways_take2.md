@@ -53,7 +53,7 @@ Including a `brush` selection and a `transform_filter` in our dashboard for inte
 
 ## Max Business Ownership in the Americas
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/line_plot_max_business_americas.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/max_business_ownership_americas.json" style="width: 100%"></vegachart>
 
 ## Average Business Ownership Per Region
 
