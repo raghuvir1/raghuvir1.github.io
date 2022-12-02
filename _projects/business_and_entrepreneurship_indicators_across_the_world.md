@@ -59,6 +59,16 @@ Including a `brush` selection and a `transform_filter` in our dashboard for inte
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/line_plot_mean_bus_own_per_region.json" style="width: 100%"></vegachart>
 
+# Fear of Failure vs Entrepreneurial intentions
+<vegachart schema-url="{{ site.baseurl }}/assets/json/fof_vs_entre_inten.json" style="width: 100%"></vegachart>
+
+# Total early-stage Entrepreneurial Activity (TEA) vs Established Business Ownership
+<vegachart schema-url="{{ site.baseurl }}/assets/json/scatter_early_stage_vs_estb_business.json" style="width: 100%"></vegachart>
+
+# Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs
+
+# Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs
+<vegachart schema-url="{{ site.baseurl }}/assets/json/scatter_early_stage_vs_estb_business.json" style="width: 100%"></vegachart>
 
 
 ## 5. Making plot fully in Altair with local data
