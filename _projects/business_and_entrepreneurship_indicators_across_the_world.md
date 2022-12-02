@@ -1,7 +1,7 @@
 ---
 name: Global Business & Entrepreneurial Indicators 
 tools: [Python, HTML, vega-lite, Jekyll]
-image: assets/pngs/vegaliteTake2.png
+image: assets/pngs/GEM.png
 description: Visualizing trends and behaviors of business & entrepreneurship indicators.
 custom_js:
   - vega.min
@@ -10,6 +10,7 @@ custom_js:
   - justcharts
 ---
 # Global Business & Entrepreneurial Behaviors
+
 
 ## Max Business Ownership in the Americas
 
