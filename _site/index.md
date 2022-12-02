@@ -23,8 +23,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Jill Naiman">
-  <meta property="og:description" content="I am definitely not a corgi!">
+  <meta property="og:title" content="Raghuvir Reddy">
+  <meta property="og:description" content="I enjoy solving problems using data.">
   <meta property="og:image" content="https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg">
 
   <title>Raghuvir Reddy</title>
@@ -54,7 +54,7 @@
   <main class="flex-shrink-0 container mt-5">
     <nav class="navbar navbar-expand-lg navbar-themed">
 
-  <a class="navbar-brand" href="/"><h5><b>Jill Naiman</b></h5></a>
+  <a class="navbar-brand" href="/"><h5><b>Raghuvir Reddy</b></h5></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
@@ -103,7 +103,7 @@
        onMouseOver="this.style.color='#db4437'"
        onMouseOut="this.style.color='#6c757d'">
       <i class="fas fa-envelope fa-1x"></i>
-    </a><a class="social mx-1"  href="https://www.github.com/jnaiman"
+    </a><a class="social mx-1"  href="https://www.github.com/raghuvir1"
        style="color: #6c757d"
        onMouseOver="this.style.color='#333333'"
        onMouseOut="this.style.color='#6c757d'">
@@ -155,3 +155,4 @@ $(function () {
 </body>
 
 </html>
+
