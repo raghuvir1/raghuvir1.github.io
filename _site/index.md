@@ -1,4 +1,4 @@
-# Welcome to my profile
+# hi
 
 <!DOCTYPE html>
 
@@ -11,12 +11,6 @@
 <html lang="en" class="h-100">
 
 <head>
-
-  
-  
-  
-
-  
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -54,7 +48,7 @@
   <main class="flex-shrink-0 container mt-5">
     <nav class="navbar navbar-expand-lg navbar-themed">
 
-  <a class="navbar-brand" href="/"><h5><b>Raghuvir Reddy</b></h5></a>
+  <a class="navbar-brand" href="/"><h5><b>Raghuvir Reddy </b></h5></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
@@ -95,7 +89,7 @@
 
   <small class="text-muted mb-2">
     <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
-    by <strong>Raghuvir Reddy</strong>
+    by <strong>Raghuvir Reddy1</strong>
   </small>
 
   <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:username@domain.com"
