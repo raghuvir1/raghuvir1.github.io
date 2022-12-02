@@ -4,6 +4,6 @@
   <head>
   </head>
   <body>   
-    <p> <strong>Under construction </strong> <strong></strong> </p>
+    <p> <strong>Under construction...</strong> <strong></strong> </p>
   </body>
 </html>

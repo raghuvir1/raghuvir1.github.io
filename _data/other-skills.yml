@@ -1,9 +1,9 @@
-- name: Adobe Photoshop
+- name: Tableau
   percentage: 95
   level: Expert
   color: info
 
-- name: Adobe Illustrator
+- name: ArcGIS
   percentage: 90
   level: Expert
   color: success
