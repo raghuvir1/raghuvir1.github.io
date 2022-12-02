@@ -51,7 +51,7 @@ Including a `brush` selection and a `transform_filter` in our dashboard for inte
 
 ## 4. Making the plot fully in Altair with data stored online
 
-Making a quick scatter plot:
+Max Business Ownership in the Americas
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/line_plot_max_business_americas.json" style="width: 100%"></vegachart>
 
