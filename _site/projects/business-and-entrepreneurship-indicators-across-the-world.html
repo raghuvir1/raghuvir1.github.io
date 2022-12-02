@@ -21,12 +21,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Take 2 - vega-lite, many ways">
-  <meta property="og:description" content="Multiple ways to use vega-lite in our Jekyll page.">
+  <meta property="og:title" content="Global Business &amp; Entrepreneurial Indicators">
+  <meta property="og:description" content="Visualizing trends and behaviors of business & entrepreneurship indicators.">
   <meta property="og:image" content="assets/pngs/vegaliteTake2.png">
 
-  <title>Take 2 - vega-lite, many ways</title>
-  <meta name="description" content="Multiple ways to use vega-lite in our Jekyll page.">
+  <title>Global Business &amp; Entrepreneurial Indicators</title>
+  <meta name="description" content="Visualizing trends and behaviors of business & entrepreneurship indicators.">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
@@ -75,45 +75,7 @@
 
 </nav>
     <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  <h1 id="general-ways-to-include-vega-lite-plots">General ways to include vega-lite plots</h1>
-
-<p>Order of operations:</p>
-
-<ol>
-  <li>generate a JSON specification (from somewhere – vega-editor, 
-Altair, etc)</li>
-  <li>save the JSON specification into <code class="language-plaintext highlighter-rouge">assets/json</code></li>
-  <li>include the “vega-lite tag” with the following example code:</li>
-</ol>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;vegachart schema-url="/assets/json/fromvegaeditor.json" style="width: 100%"&gt;&lt;/vegachart&gt;
-</code></pre></div></div>
-
-<h2 id="1-including-vega-lite-plots-directly-from-the-editor">1. Including vega-lite plots directly from the editor</h2>
-
-<p>If we are copying from the <a href="https://vega.github.io/editor">vega-editor</a> we want to make sure we have the full data link.  We can find that by Googling for “vega datasets github” which takes us <a href="https://github.com/vega/vega-datasets/tree/next/data">right here</a> and we can search for our dataset.</p>
-
-<p>Make sure it is the “raw” form of the data!</p>
-
-<vegachart schema-url="/assets/json/interactivescatter_fulllink.json" style="width: 100%"></vegachart>
-
-<h2 id="2-how-to-use-vega-lite-specifications-from-other-sources-ie-starboard">2. How to use vega-lite specifications from other sources (i.e. Starboard)</h2>
-
-<p>Starting with a static histogram plot with the Mobility dataset from a <a href="https://starboard.gg/nb/nrSZM7g">Starboard Notebook from Week 10</a>.</p>
-
-<vegachart schema-url="/assets/json/mobility_hist.json" style="width: 100%"></vegachart>
-
-<h2 id="3-limitations-of-just-copying-from-starboard--how-to-fix-some-of-this-with-altair">3. Limitations of just copying from Starboard – how to fix some of this with Altair</h2>
-
-<p>Side by side, from Starboard (no interactivity):</p>
-
-<vegachart schema-url="/assets/json/sidebyside.json" style="width: 100%"></vegachart>
-
-<p>Including a <code class="language-plaintext highlighter-rouge">brush</code> selection and a <code class="language-plaintext highlighter-rouge">transform_filter</code> in our dashboard for interactivity:</p>
-
-<vegachart schema-url="/assets/json/dashboard_mobility_from_dict.json" style="width: 100%"></vegachart>
-
-<h2 id="4-making-the-plot-fully-in-altair-with-data-stored-online">4. Making the plot fully in Altair with data stored online</h2>
+  <h1 id="global-business--entrepreneurial-behaviors">Global Business &amp; Entrepreneurial Behaviors</h1>
 
 <h2 id="max-business-ownership-in-the-americas">Max Business Ownership in the Americas</h2>
 
@@ -123,27 +85,22 @@ Altair, etc)</li>
 
 <vegachart schema-url="/assets/json/line_plot_mean_bus_own_per_region.json" style="width: 100%"></vegachart>
 
-<h1 id="fear-of-failure-vs-entrepreneurial-intentions">Fear of Failure vs Entrepreneurial intentions</h1>
+<h2 id="fear-of-failure-vs-entrepreneurial-intentions">Fear of Failure vs Entrepreneurial intentions</h2>
+
 <vegachart schema-url="/assets/json/fof_vs_entre_inten.json" style="width: 100%"></vegachart>
 
-<h1 id="total-early-stage-entrepreneurial-activity-tea-vs-established-business-ownership">Total early-stage Entrepreneurial Activity (TEA) vs Established Business Ownership</h1>
+<h2 id="total-early-stage-entrepreneurial-activity-tea-vs-established-business-ownership">Total early-stage Entrepreneurial Activity (TEA) vs Established Business Ownership</h2>
+
+<vegachart schema-url="/assets/json/scatter2.json" style="width: 100%"></vegachart>
+
+<h2 id="entrepreneurship-as-a-good-career-choice-vs-high-status-to-successful-entrepreneurs">Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs</h2>
+
 <vegachart schema-url="/assets/json/scatter_early_stage_vs_estb_business.json" style="width: 100%"></vegachart>
-
-<h1 id="entrepreneurship-as-a-good-career-choice-vs-high-status-to-successful-entrepreneurs">Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs</h1>
-
-<h1 id="entrepreneurship-as-a-good-career-choice-vs-high-status-to-successful-entrepreneurs-1">Entrepreneurship as a Good Career Choice vs High Status to Successful Entrepreneurs</h1>
-<vegachart schema-url="/assets/json/scatter_early_stage_vs_estb_business.json" style="width: 100%"></vegachart>
-
-<h2 id="5-making-plot-fully-in-altair-with-local-data">5. Making plot fully in Altair with local data</h2>
-
-<p>We did a couple of things, namely, we used a local version of the mobility dataset, and then we <em>subsetted</em> that data set so that it was the smallest version of the data to pass with our specification.</p>
-
-<vegachart schema-url="/assets/json/dashboard_all_in_altair_subset.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid -->
 
 <div class="left">
-<a class="m-1 btn btn-outline-primary btn-2 " href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/mobility.csv">
+<a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/raghuvir1/raghuvir1.github.io/tree/main/data_files/data_viz_fall_2022">
   The Data
 </a>
 </div>
