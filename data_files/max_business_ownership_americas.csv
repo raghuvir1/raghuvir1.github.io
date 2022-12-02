@@ -1,0 +1,237 @@
+year,region,economy,Statistic,stats value
+2001,Latin America,Argentina,max,3.92
+2001,Latin America,Brazil,max,3.79
+2001,Latin America,Mexico,max,5.83
+2002,Latin America,Argentina,max,10.78
+2002,Latin America,Brazil,max,7.76
+2002,Latin America,Chile,max,6.79
+2002,Latin America,Mexico,max,1.49
+2003,Latin America,Argentina,max,7.84
+2003,Latin America,Brazil,max,7.62
+2003,Latin America,Chile,max,6.46
+2003,Latin America,Venezuela,max,9.63
+2004,Latin America,Argentina,max,8.06
+2004,Latin America,Brazil,max,10.11
+2004,Latin America,Ecuador,max,10.1
+2004,Latin America,Peru,max,14.46
+2005,Latin America,Argentina,max,4.95
+2005,Latin America,Brazil,max,10.11
+2005,Latin America,Chile,max,3.78
+2005,Latin America,Jamaica,max,9.53
+2005,Latin America,Mexico,max,1.89
+2005,Latin America,Venezuela,max,8.59
+2006,Latin America,Argentina,max,6.96
+2006,Latin America,Brazil,max,12.09
+2006,Latin America,Chile,max,6.79
+2006,Latin America,Colombia,max,10.41
+2006,Latin America,Jamaica,max,10.3
+2006,Latin America,Mexico,max,2.27
+2006,Latin America,Peru,max,12.37
+2006,Latin America,Uruguay,max,6.91
+2007,Latin America,Argentina,max,9.96
+2007,Latin America,Brazil,max,9.94
+2007,Latin America,Chile,max,8.73
+2007,Latin America,Colombia,max,11.56
+2007,Latin America,Dominican Republic,max,7.57
+2007,Latin America,Peru,max,15.25
+2007,Latin America,Puerto Rico,max,2.4
+2007,Latin America,Uruguay,max,6.57
+2007,Latin America,Venezuela,max,5.39
+2008,Latin America,Argentina,max,13.52
+2008,Latin America,Bolivia,max,19.05
+2008,Latin America,Brazil,max,14.59
+2008,Latin America,Chile,max,6.65
+2008,Latin America,Colombia,max,14.07
+2008,Latin America,Dominican Republic,max,8.24
+2008,Latin America,Ecuador,max,11.87
+2008,Latin America,Jamaica,max,9.12
+2008,Latin America,Mexico,max,4.94
+2008,Latin America,Peru,max,8.27
+2008,Latin America,Uruguay,max,7.94
+2009,Latin America,Argentina,max,13.53
+2009,Latin America,Brazil,max,11.84
+2009,Latin America,Chile,max,6.77
+2009,Latin America,Colombia,max,12.92
+2009,Latin America,Dominican Republic,max,11.35
+2009,Latin America,Ecuador,max,16.09
+2009,Latin America,Guatemala,max,4.23
+2009,Latin America,Jamaica,max,16.31
+2009,Latin America,Panama,max,4.22
+2009,Latin America,Peru,max,7.45
+2009,Latin America,Uruguay,max,5.95
+2009,Latin America,Venezuela,max,6.51
+2010,Latin America,Argentina,max,12.41
+2010,Latin America,Bolivia,max,18.23
+2010,Latin America,Brazil,max,15.26
+2010,Latin America,Chile,max,5.99
+2010,Latin America,Colombia,max,12.22
+2010,Latin America,Costa Rica,max,4.83
+2010,Latin America,Ecuador,max,14.68
+2010,Latin America,Guatemala,max,6.65
+2010,Latin America,Jamaica,max,6.9
+2010,Latin America,Mexico,max,0.42
+2010,Latin America,Peru,max,7.21
+2010,Latin America,Trinidad and Tobago,max,8.54
+2010,Latin America,Uruguay,max,7.24
+2011,Latin America,Argentina,max,11.82
+2011,Latin America,Barbados,max,3.94
+2011,Latin America,Brazil,max,12.23
+2011,Latin America,Chile,max,7.0
+2011,Latin America,Colombia,max,7.46
+2011,Latin America,Guatemala,max,2.54
+2011,Latin America,Jamaica,max,5.14
+2011,Latin America,Mexico,max,3.03
+2011,Latin America,Panama,max,6.04
+2011,Latin America,Peru,max,5.75
+2011,Latin America,Trinidad and Tobago,max,6.91
+2011,Latin America,Uruguay,max,5.95
+2011,Latin America,Venezuela,max,1.57
+2012,Latin America,Argentina,max,9.63
+2012,Latin America,Barbados,max,12.23
+2012,Latin America,Brazil,max,15.19
+2012,Latin America,Chile,max,7.77
+2012,Latin America,Colombia,max,6.72
+2012,Latin America,Costa Rica,max,3.33
+2012,Latin America,Ecuador,max,18.92
+2012,Latin America,El Salvador,max,9.39
+2012,Latin America,Mexico,max,4.67
+2012,Latin America,Panama,max,1.86
+2012,Latin America,Peru,max,5.1
+2012,Latin America,Trinidad and Tobago,max,7.19
+2012,Latin America,Uruguay,max,4.97
+2013,Latin America,Argentina,max,9.62
+2013,Latin America,Barbados,max,12.38
+2013,Latin America,Brazil,max,15.44
+2013,Latin America,Chile,max,8.46
+2013,Latin America,Colombia,max,5.85
+2013,Latin America,Ecuador,max,17.99
+2013,Latin America,Guatemala,max,5.07
+2013,Latin America,Jamaica,max,6.28
+2013,Latin America,Mexico,max,4.18
+2013,Latin America,Panama,max,3.5
+2013,Latin America,Peru,max,5.42
+2013,Latin America,Puerto Rico,max,2.03
+2013,Latin America,Suriname,max,1.71
+2013,Latin America,Trinidad and Tobago,max,11.4
+2013,Latin America,Uruguay,max,4.91
+2014,Latin America,Argentina,max,9.09
+2014,Latin America,Barbados,max,7.09
+2014,Latin America,Belize,max,3.74
+2014,Latin America,Bolivia,max,7.59
+2014,Latin America,Brazil,max,17.51
+2014,Latin America,Chile,max,8.79
+2014,Latin America,Colombia,max,4.86
+2014,Latin America,Costa Rica,max,2.53
+2014,Latin America,Ecuador,max,17.67
+2014,Latin America,El Salvador,max,12.73
+2014,Latin America,Guatemala,max,7.36
+2014,Latin America,Jamaica,max,14.44
+2014,Latin America,Mexico,max,4.48
+2014,Latin America,Panama,max,3.44
+2014,Latin America,Peru,max,9.24
+2014,Latin America,Puerto Rico,max,1.27
+2014,Latin America,Suriname,max,5.17
+2014,Latin America,Trinidad and Tobago,max,8.48
+2014,Latin America,Uruguay,max,6.74
+2015,Latin America,Argentina,max,9.49
+2015,Latin America,Barbados,max,14.09
+2015,Latin America,Brazil,max,18.89
+2015,Latin America,Chile,max,8.16
+2015,Latin America,Colombia,max,5.17
+2015,Latin America,Ecuador,max,17.4
+2015,Latin America,Guatemala,max,8.08
+2015,Latin America,Mexico,max,6.86
+2015,Latin America,Panama,max,4.2
+2015,Latin America,Peru,max,6.61
+2015,Latin America,Puerto Rico,max,1.41
+2015,Latin America,Uruguay,max,2.09
+2016,Latin America,Argentina,max,7.9
+2016,Latin America,Belize,max,5.3
+2016,Latin America,Brazil,max,16.9
+2016,Latin America,Chile,max,8.0
+2016,Latin America,Colombia,max,8.9
+2016,Latin America,Ecuador,max,14.3
+2016,Latin America,El Salvador,max,11.5
+2016,Latin America,Guatemala,max,9.1
+2016,Latin America,Jamaica,max,8.2
+2016,Latin America,Panama,max,4.4
+2016,Latin America,Peru,max,6.1
+2016,Latin America,Puerto Rico,max,1.6
+2016,Latin America,Uruguay,max,7.4
+2017,Latin America,Argentina,max,6.71
+2017,Latin America,Brazil,max,16.5
+2017,Latin America,Chile,max,9.94
+2017,Latin America,Colombia,max,8.67
+2017,Latin America,Ecuador,max,15.35
+2017,Latin America,Guatemala,max,12.29
+2017,Latin America,Mexico,max,1.4
+2017,Latin America,Panama,max,4.67
+2017,Latin America,Peru,max,7.44
+2017,Latin America,Puerto Rico,max,1.64
+2017,Latin America,Uruguay,max,6.43
+2018,Latin America,Argentina,max,9.05
+2018,Latin America,Brazil,max,20.25
+2018,Latin America,Chile,max,8.54
+2018,Latin America,Colombia,max,6.5
+2018,Latin America,Guatemala,max,11.15
+2018,Latin America,Panama,max,6.39
+2018,Latin America,Peru,max,8.37
+2018,Latin America,Puerto Rico,max,1.85
+2018,Latin America,Uruguay,max,5.58
+2019,Latin America,Brazil,max,16.16
+2019,Latin America,Chile,max,10.61
+2019,Latin America,Colombia,max,4.27
+2019,Latin America,Ecuador,max,14.69
+2019,Latin America,Guatemala,max,14.8
+2019,Latin America,Mexico,max,1.82
+2019,Latin America,Panama,max,4.66
+2019,Latin America,Puerto Rico,max,1.25
+2020,Latin America,Brazil,max,8.7
+2020,Latin America,Chile,max,6.0
+2020,Latin America,Colombia,max,5.5
+2020,Latin America,Guatemala,max,12.3
+2020,Latin America,Panama,max,4.1
+2020,Latin America,Uruguay,max,5.1
+2021,Latin America,Brazil,max,9.95
+2021,Latin America,Chile,max,7.13
+2021,Latin America,Colombia,max,1.83
+2021,Latin America,Dominican Republic,max,3.84
+2021,Latin America,Guatemala,max,12.68
+2021,Latin America,Panama,max,3.74
+2021,Latin America,Uruguay,max,4.1
+2001,North America,Canada,max,3.89
+2001,North America,United States,max,5.83
+2002,North America,Canada,max,6.49
+2002,North America,United States,max,5.74
+2003,North America,Canada,max,3.95
+2003,North America,United States,max,5.41
+2004,North America,Canada,max,7.04
+2004,North America,United States,max,5.45
+2005,North America,Canada,max,7.4
+2005,North America,United States,max,4.67
+2006,North America,Canada,max,5.11
+2006,North America,United States,max,5.42
+2007,North America,United States,max,4.97
+2008,North America,United States,max,8.34
+2009,North America,United States,max,5.87
+2010,North America,United States,max,7.68
+2011,North America,United States,max,9.05
+2012,North America,United States,max,8.56
+2013,North America,Canada,max,8.44
+2013,North America,United States,max,7.49
+2014,North America,Canada,max,9.35
+2014,North America,United States,max,6.95
+2015,North America,Canada,max,8.85
+2015,North America,United States,max,7.33
+2016,North America,Canada,max,6.8
+2016,North America,United States,max,9.2
+2017,North America,Canada,max,6.18
+2017,North America,United States,max,7.75
+2018,North America,Canada,max,7.5
+2018,North America,United States,max,7.87
+2019,North America,Canada,max,7.44
+2019,North America,United States,max,10.59
+2020,North America,Canada,max,7.3
+2020,North America,United States,max,9.9
+2021,North America,Canada,max,8.15
+2021,North America,United States,max,8.85
