@@ -35,7 +35,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Raghuvir Reddy
-  image             : https://github.com/raghuvir1/raghuvir1.github.io/blob/8627ad9144d5918a608e56c2dd85cace4609dd73/assets/pngs/display.png #https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  image             : assets/pngs/display.png #https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : raghuvir.reddy97@gmail.com
