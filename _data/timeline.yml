@@ -21,8 +21,6 @@
   to: present
   description: Time-series forecasting, etl, powerbi, power automate
 
-  --
-
   work_experience:
     - title: Data Science Intern @ Walmart Personalization & Reccommendation
       subtitle: Walmart
