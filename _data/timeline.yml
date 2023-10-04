@@ -21,17 +21,16 @@
   subtitle: Walmart
   from: 06/2021
   to: 12/2021
-  description: > 
-        - Achieved 75% accuracy in predicting customer’s next purchase intent by developing the 0-to-1 Sequential Framework for Walmart’s Personalization objectives using state-of-the-art DSASRec, SASRec, and TiSASRec Deep Learning Models in PyTorch.
-        - Optimized recommendations to increase cross-category purchases (groceries-to-general merchandise) and drive revenue growth, resulting in an 8% increase in cross-sell and a 7% increase in Gross Merchandise Value per user.
-        - Productionized model for deployment by creating an end-to-end data pipeline processing 5 billion data points in PySpark & SQL.
+  description:
+    bullet: Optimized recommendations to increase cross-category purchases (groceries-to-general merchandise) and drive revenue growth, resulting in an 8% increase in cross-sell and a 7% increase in Gross Merchandise Value per user.
+    bullet: Productionized model for deployment by creating an end-to-end data pipeline processing 5 billion data points in PySpark & SQL.
         - Improved Precision and Recall of existing baseline models by 10% through automation of model and hyper-parameter tuning.
 
 - title: Data Analyst
   subtitle: Indeed
   from: 11/2020
   to: 05/2021
-  description: > 
+  description: |-  
         - Automated the reporting of operational KPIs for 80+ analysts, enabling the identification and addressing of system bottlenecks.
         - Developed custom Salesforce widgets, tools, and documentation, resulting in a 15% decrease in 'Time-to-Close' per ticket.
         - Completed 100+ customer tickets with 90% accuracy, generating over $750k in weekly revenue.
