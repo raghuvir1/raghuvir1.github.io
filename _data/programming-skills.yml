@@ -1,6 +1,6 @@
 - name: SQL
-  percentage: 80
-  level: Proficient
+  percentage: 95
+  level: Expert
   color: danger
 
 - name: Python

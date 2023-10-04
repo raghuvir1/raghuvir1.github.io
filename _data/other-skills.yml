@@ -1,7 +1,7 @@
-- name: Tableau
+- name: Tableau / PowerBI
   percentage: 95
   level: Expert
-  color: info
+  color: success
 
 - name: ArcGIS
   percentage: 90
