@@ -3,9 +3,9 @@
   level: Expert
   color: success
 
-- name: ArcGIS
-  percentage: 90
-  level: Expert
+- name: Microsoft Power Automate
+  percentage: 80
+  level: Proficient
   color: success
 
 - name: MS Excel

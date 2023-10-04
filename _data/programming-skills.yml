@@ -1,12 +1,12 @@
 - name: SQL
   percentage: 95
   level: Expert
-  color: danger
+  color: success
 
 - name: Python
   percentage: 80
   level: Proficient
-  color: secondary
+  color: success
 
 - name: R
   percentage: 70
