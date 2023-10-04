@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
+Hello! I'm  **{{ site.author.name }}**,<br>
 a graduate student from the University of Illinois, Urbana-Champaign pursuing a Master's of Science in Information Management (Data Science).
 
 <div class="row">
