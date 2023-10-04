@@ -3,7 +3,7 @@ title: The Hello World of Blogs
 tags: [Technology, Blogging]
 style: fill
 color: secondary
-description: This is a blog post to get you started.
+description: My Data Science Journey
 ---
 
 Source: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU)
