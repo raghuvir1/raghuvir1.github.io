@@ -11,10 +11,10 @@
   from: 06/2023
   to: present
   description: |
-    - Conducted advanced time-series forecasting to predict future trends and patterns, enabling proactive decision-making and resource allocation.
-    - Spearheaded the design and implementation of ETL processes, ensuring seamless data integration and transformation for analysis.
-    - Utilized Power BI to create interactive data visualizations and dashboards, providing clients with actionable insights to drive strategic decisions.
-    - Automated critical data-related tasks and processes using Power Automate, enhancing efficiency and reducing manual workload.
+        - Conducted advanced time-series forecasting to predict future trends and patterns, enabling proactive decision-making and resource allocation.
+        - Spearheaded the design and implementation of ETL processes, ensuring seamless data integration and transformation for analysis.
+        - Utilized Power BI to create interactive data visualizations and dashboards, providing clients with actionable insights to drive strategic decisions.
+        - Automated critical data-related tasks and processes using Power Automate, enhancing efficiency and reducing manual workload.
     
 
 - title: Data Science Intern @ Walmart Personalization & Reccommendation
@@ -22,35 +22,35 @@
   from: 06/2021
   to: 12/2021
   description: |
-      - Achieved 75% accuracy in predicting customer’s next purchase intent by developing the 0-to-1 Sequential Framework for Walmart’s Personalization objectives using state-of-the-art DSASRec, SASRec, and TiSASRec Deep Learning Models in PyTorch.
-      - Optimized recommendations to increase cross-category purchases (groceries-to-general merchandise) and drive revenue growth, resulting in an 8% increase in cross-sell and a 7% increase in Gross Merchandise Value per user.
-      - Productionized model for deployment by creating an end-to-end data pipeline processing 5 billion data points in PySpark & SQL.
-      - Improved Precision and Recall of existing baseline models by 10% through automation of model and hyper-parameter tuning.
+        - Achieved 75% accuracy in predicting customer’s next purchase intent by developing the 0-to-1 Sequential Framework for Walmart’s Personalization objectives using state-of-the-art DSASRec, SASRec, and TiSASRec Deep Learning Models in PyTorch.
+        - Optimized recommendations to increase cross-category purchases (groceries-to-general merchandise) and drive revenue growth, resulting in an 8% increase in cross-sell and a 7% increase in Gross Merchandise Value per user.
+        - Productionized model for deployment by creating an end-to-end data pipeline processing 5 billion data points in PySpark & SQL.
+        - Improved Precision and Recall of existing baseline models by 10% through automation of model and hyper-parameter tuning.
 
 - title: Data Analyst
   subtitle: Indeed
   from: 11/2020
   to: 05/2021
   description: |
-    - Automated the reporting of operational KPIs for 80+ analysts, enabling the identification and addressing of system bottlenecks.
-    - Developed custom Salesforce widgets, tools, and documentation, resulting in a 15% decrease in 'Time-to-Close' per ticket.
-    - Completed 100+ customer tickets with 90% accuracy, generating over $750k in weekly revenue.
+        - Automated the reporting of operational KPIs for 80+ analysts, enabling the identification and addressing of system bottlenecks.
+        - Developed custom Salesforce widgets, tools, and documentation, resulting in a 15% decrease in 'Time-to-Close' per ticket.
+        - Completed 100+ customer tickets with 90% accuracy, generating over $750k in weekly revenue.
 
 - title: Growth Analyst
   subtitle: GetDone
   from: 06/2020
   to: 09/2020
   description: |
-    - Increased the monthly order rate by 20% by mapping the customer journey into measurable KPIs and identifying the customer attributes associated with high order rates through regression analysis.
-    - Enabled a 2x growth in 5-star order ratings by addressing operational inefficiencies (delays, vendor non-compliance) through real-time order-tracking, automating vendor alerts for upcoming jobs, and optimizing onboarding workflows.
-    - Optimized and redesigned the ETL infrastructure in AWS Redshift by 10%, expediting KPI querying and business reporting.
+        - Increased the monthly order rate by 20% by mapping the customer journey into measurable KPIs and identifying the customer attributes associated with high order rates through regression analysis.
+        - Enabled a 2x growth in 5-star order ratings by addressing operational inefficiencies (delays, vendor non-compliance) through real-time order-tracking, automating vendor alerts for upcoming jobs, and optimizing onboarding workflows.
+        - Optimized and redesigned the ETL infrastructure in AWS Redshift by 10%, expediting KPI querying and business reporting.
 
 - title: Data Analyst Intern
   subtitle: LiveStories
   from: 06/2019
   to: 12/2019
   description: |
-    - Saved the Customer Success team 10 hours/week by creating a dashboard in Google Data Studio that facilitates the instantaneous retrieval of customer KPIs stored in Google BigQuery, MongoDB, and Google Analytics databases.
-    - Transformed 500k+ rows of unstructured data into dynamic web reports and interactive visualizations for county and city government websites across the US using Excel and custom HTML/CSS scripts.
+        - Saved the Customer Success team 10 hours/week by creating a dashboard in Google Data Studio that facilitates the instantaneous retrieval of customer KPIs stored in Google BigQuery, MongoDB, and Google Analytics databases.
+        - Transformed 500k+ rows of unstructured data into dynamic web reports and interactive visualizations for county and city government websites across the US using Excel and custom HTML/CSS scripts.
 
 
